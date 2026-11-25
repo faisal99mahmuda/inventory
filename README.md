@@ -27,6 +27,6 @@ Proyek praktikum mata kuliah **Praktek Pemrograman WEB II** — Politeknik Bisni
 
 ## Identitas
 
-- Nama: (isi nama kamu)
-- NIM: (isi NIM kamu)
+- Nama: FAISAL MAHMUDA      
+- NIM: 25110026
 - Kelas: TK Grup D
