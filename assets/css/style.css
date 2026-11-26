@@ -143,4 +143,4 @@ body {
     .menu { display: flex; flex-wrap: wrap; gap: 6px; }
     .menu-label { display: none; }
     .content { padding: 20px 16px; }
-}
+} 
