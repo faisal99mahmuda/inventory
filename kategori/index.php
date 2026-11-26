@@ -53,7 +53,7 @@ require __DIR__ . '/../includes/header.php';
                     <td class="text-right"><?= angka($k['total_stok']) ?></td>
                 </tr>
             <?php endforeach; ?>
-            </tbody>
+            </tbody> 
         </table>
     </div>
 </section>

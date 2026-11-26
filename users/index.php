@@ -53,7 +53,7 @@ require __DIR__ . '/../includes/header.php';
                 <?php endforeach; ?>
             </tbody>
         </table>
-    </div>
+    </div> 
 </section>
 
 <?php require __DIR__ . '/../includes/footer.php'; ?>
