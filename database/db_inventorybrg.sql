@@ -75,4 +75,4 @@ INSERT INTO barang (kode_barang, nama_barang, kategori_id, satuan, harga, stok, 
 ('BRG-005', 'Flashdisk 32GB',          2, 'unit',  85000,  2,  3),
 ('BRG-006', 'Cairan Pembersih Lantai', 3, 'botol', 21000, 15,  5),
 ('BRG-007', 'Tisu Gulung',             3, 'pak',   32000,  6,  5),
-('BRG-008', 'Air Mineral 600ml',       4, 'dus',   48000, 10,  4);
+('BRG-008', 'Air Mineral 600ml',       4, 'dus',   48000, 10,  4); 

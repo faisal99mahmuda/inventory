@@ -17,7 +17,7 @@ Proyek praktikum mata kuliah **Praktek Pemrograman WEB II** — Politeknik Bisni
 - PHP 8 (XAMPP)
 - MySQL / MariaDB
 - HTML dan CSS
-
+ 
 ## Cara Menjalankan
 
 1. Salin folder `inventory` ke `C:\xampp\htdocs\`

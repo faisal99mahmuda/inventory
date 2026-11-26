@@ -11,4 +11,4 @@ define('APP_NAME', 'SI Inventory');
 define('BASE_URL', '/inventory');
 
 // Zona waktu Indonesia bagian barat (agar tanggal & jam sesuai)
-date_default_timezone_set('Asia/Jakarta');
+date_default_timezone_set('Asia/Jakarta'); 
